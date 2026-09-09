@@ -14,3 +14,8 @@ Education: High School Student
 Languages: HTML, CSS, JavaScript, Python (+ Anvil).
 Location: https://0acrux.nekoweb.org
 ```
+<h2> Chrome Extensions </h2>
+
+| | |
+|:--|--:|
+| [crt](https://github.com/0acrux/crt) | 09/09/2026 |
