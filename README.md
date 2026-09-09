@@ -14,7 +14,8 @@ Education: High School Student
 Languages: HTML, CSS, JavaScript, Python (+ Anvil).
 Location: https://0acrux.nekoweb.org
 ```
-<br>
+
+<br clear="right">
 
 | Repository | Category | Created |
 |:--|:--|--:|
