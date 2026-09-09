@@ -1,6 +1,6 @@
 <h2> About </h2>
 
-<img align="left" src="images/Solo-Leveling-PNG.png" width="35%"/>
+<img align="left" src="https://github.com/user-attachments/assets/4aaa0d7e-6547-4620-9970-002c500bc35c" width="35%"/>
 
 ```cpp
 Profile Version: 1.0
