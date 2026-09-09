@@ -15,6 +15,6 @@ Languages: HTML, CSS, JavaScript, Python (+ Anvil).
 Location: https://0acrux.nekoweb.org
 ```
 
-| | |
-|:--|--:|
-| [crt](https://github.com/0acrux/crt) | 09/09/2026 |
+| repository | category | created |
+|:--|:--|--:|
+| [crt](https://github.com/0acrux/crt) | chrome extension | 09/09/2026 |
